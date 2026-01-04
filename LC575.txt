@@ -1,0 +1,15 @@
+class Solution {
+    public int distributeCandies(int[] c) {
+        HashMap<Integer,Integer> h = new HashMap<>();
+        for(int i : c){
+            if(h.size() == c.length/2) return h.size();
+            if(!h.containsKey(i)){
+                h.put(i,1);
+            }
+            else{
+                h.put(i,h.get(i) + 1);
+            }
+        }
+        return h.size();
+    }
+}

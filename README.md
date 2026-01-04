@@ -10,10 +10,11 @@ Every commit is proof of discipline.
 
 ## 🎯 Why This Repository Exists
 
-Motivation fades.  
+Motivation fades.
 Discipline stays.
 
 This repository is a **daily accountability system** to build:
+
 - Consistency
 - Problem-solving mindset
 - Strong DSA fundamentals
@@ -34,16 +35,17 @@ We rely on showing up.
 
 ## 🔥 Streak Tracker
 
-| Day | Date | Status |
-|----|------|--------|
-| 1  | 2026-01-04 | ✅ |
-| 2  | YYYY-MM-DD | ✅ |
-| 3  | YYYY-MM-DD | 🔥 |
+| Day | Date       | Status |
+| --- | ---------- | ------ |
+| 1   | 2026-01-04 | ✅     |
+| 2   | YYYY-MM-DD | ✅     |
+| 3   | YYYY-MM-DD | 🔥     |
 
-> Green squares = discipline  
+> Green squares = discipline
 > Broken chain = restart
+> link: https://leetcode.com/u/srujanmelam/
+> link: 
 
 ---
 
 ## 📂 Repository Structure
-
