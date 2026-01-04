@@ -19,7 +19,7 @@ class Solution {
                         sum += d1 + d2;
                     }
 
-                    if (count > 4) break; // early stop
+                    if (count > 4) break;
                 }
             }
 
