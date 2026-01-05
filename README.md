@@ -37,8 +37,8 @@ We rely on showing up.
 
 | Day | Date       | Status |
 | --- | ---------- | ---- |
-| 1   | 2026-01-04 | ✅   |
-| 2   | YYYY-MM-DD |     |
+| 1   | 2026-01-05 | ✅   |
+| 2   | 2026-01-06 | ✅   |
 | 3   | YYYY-MM-DD | 🔥   |
 
 > Green squares = discipline
